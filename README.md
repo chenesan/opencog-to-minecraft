@@ -1,6 +1,8 @@
+This repository is outdated. Currently all the works are in [OC2MC/opencog-to-minecraft](https://github.com/OC2MC/opencog-to-minecraft).
+
 #opencog-to-minecraft#
 
-Now this is just a temporary workflow to test the pipeline from Minecraft to Opencog. The integration has not finished. After the integration is stable we will move these codes into another repositories for future works.
+Now this is just a temporary workflow to test the pipeline from Minecraft to Opencog. The integration has not finished. After the integration is stable we will moves these codes into another repositories for future works.
 
 The modules in src/spockextra, mapnode.py and testbot3.py is made by [LucidBlue](https://github.com/LucidBlue/ros-to-minecraft/).
 And the netcat.py module is made by [Linas](https://github.com/opencog/ros-behavior-scripting/blob/master/face_track/netcat.py).
